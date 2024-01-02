@@ -1,0 +1,10 @@
+("ABC123", "Audi", "A4", 4, "Gasoline");
+"XYZ789", "Mercedes", "C200", 4, "Diesel",false
+("EFG456", "Tesla", "Model 3", 4, 75, 400, 18);
+("DEF321", "BMW", "X5", 5, "Gasoline");
+("JKL987", "Volkswagen", "Golf", 5, "Diesel","true");
+("MNO654", "Nissan", "Leaf", 4, 40, 250, 16);
+("PQR123", "Ford", "Focus", 4, "Gasoline");
+("STU789", "Volvo", "XC60", 5, "Diesel","true");
+("VWX456", "Chevrolet", "Bolt", 4, 60, 350, 15);
+("YZA321", "Toyota", "Camry", 4, "Gasoline");
